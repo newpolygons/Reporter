@@ -1,11 +1,11 @@
 # Reporter
- A simple python script to get you up and running with a Cydia Repo
+ A simple python script to get you up and running with a iOS tweak repo.
 
-# Welcome to Reporter Version 1.5!
-Please direct any bugs or feature requests to @NewPolygons on twitter!
+currently being updated check back soon, if u need the tool right now its in the old/ folder though...
 
-# New Features
-Initial support for Linux!
 
-# How to use Reporter?
-Please see readme.txt under appropriate folder for instructions.
+
+ # Usage
+ install requirements in requirements.txt
+ python3 main.py
+
