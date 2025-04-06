@@ -6,14 +6,13 @@ Tested on macOS and Linux, on your own with Windows.
 
 # Prereq
 
- dpkg
- bzip2
-
 
     
 
 
  # Usage
+
+ This app is not runnning in its current state, check back soon
 
  python3 -m venv env && source env/bin/activate
  
