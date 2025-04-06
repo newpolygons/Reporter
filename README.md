@@ -1,12 +1,23 @@
 # Reporter
- A simple python script to get you up and running with a iOS tweak repo.
 
-currently being updated check back soon, if u need the tool right now its in the old/ folder though...
+Create iOS tweak repo with ease.
 
+Tested on macOS and Linux, on your own with Windows.
+
+# Prereq
+
+ dpkg
+ bzip2
+
+
+    
 
 
  # Usage
- install requirements in requirements.txt
+
+ python3 -m venv env && source env/bin/activate
  
- python3 main.py
+ pip3 install -r requirements.txt
+ 
+ pyhton3 main.py
 
